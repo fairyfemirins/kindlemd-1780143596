@@ -1,0 +1,12 @@
+# The Pragmatic Programmer
+**Author**: Andrew Hunt, David Thomas
+
+- **Location 123-124** (Added on Tuesday, May 26, 2026 10:00:00 AM)
+  The most damaging phrase in the language is “We’ve always done it this way!”
+
+# 原子习惯
+**Author**: James Clear
+
+- **Location 456-457** (Added on Tuesday, May 26, 2026 10:01:00 AM)
+  You do not rise to the level of your goals. You fall to the level of your systems.
+
